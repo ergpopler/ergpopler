@@ -9,4 +9,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-six-tan.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/datadooppoop)
+[<img src="https://novatorem-six-tan.vercel.app/api/spotify" width="350" />](https://open.spotify.com/user/datadooppoop)
